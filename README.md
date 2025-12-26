@@ -1,6 +1,6 @@
-# JODAMS Online Daily
+# The Truth Online Daily
 
-JODAMS Online Daily is a modern, responsive news website focused on political and economic stories.  
+The Truth Online Daily is a modern, responsive news website focused on political and economic stories.  
 The website is built as a static site and later enhanced with Netlify CMS so the client can publish stories independently.
 
 ---
@@ -71,3 +71,4 @@ Netlify CMS will be integrated to allow the client to:
 ## 👤 Author
 
 Built by [Amanda Adams]
+
